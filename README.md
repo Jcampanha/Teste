@@ -1,106 +1,106 @@
-# Dancer Portfolio Website
+# Website de Portfólio de Bailarina
 
-A modern, responsive portfolio website designed specifically for professional dancers and choreographers. This website showcases dance performances, skills, and provides a professional online presence.
+Um website de portfólio moderno e responsivo projetado especificamente para bailarinas e coreógrafas profissionais. Este website apresenta apresentações de dança, habilidades e fornece uma presença online profissional.
 
 ## Features
 
 ### 🎨 Design
-- **Modern & Elegant**: Clean, professional design with beautiful gradients and animations
-- **Responsive**: Fully responsive design that works on all devices (desktop, tablet, mobile)
-- **Smooth Animations**: CSS animations and JavaScript interactions for an engaging user experience
-- **Typography**: Beautiful typography using Google Fonts (Playfair Display & Poppins)
+- **Moderno & Elegante**: Design limpo e profissional com gradientes e animações bonitas
+- **Responsivo**: Design totalmente responsivo que funciona em todos os dispositivos (desktop, tablet, mobile)
+- **Animações Suaves**: Animações CSS e interações JavaScript para uma experiência envolvente
+- **Tipografia**: Tipografia bonita usando Google Fonts (Playfair Display & Poppins)
 
-### 📱 Sections
-1. **Hero Section**: Eye-catching introduction with animated elements
-2. **About**: Professional background, skills, and statistics
-3. **Performances**: Showcase of featured dance performances
-4. **Gallery**: Visual portfolio of dance photos/videos
-5. **Contact**: Contact form and professional information
+### 📱 Seções
+1. **Seção Hero**: Introdução chamativa com elementos animados
+2. **Sobre**: Histórico profissional, habilidades e estatísticas
+3. **Apresentações**: Mostra de apresentações de dança em destaque
+4. **Galeria**: Portfólio visual de fotos/vídeos de dança
+5. **Contato**: Formulário de contato e informações profissionais
 
-### ⚡ Interactive Features
-- **Mobile Navigation**: Hamburger menu for mobile devices
-- **Smooth Scrolling**: Smooth navigation between sections
-- **Form Validation**: Contact form with email validation
-- **Scroll Animations**: Elements animate as they come into view
-- **Hover Effects**: Interactive hover effects on cards and buttons
-- **Scroll to Top**: Convenient button to return to the top
-- **Notifications**: Success/error notifications for form submissions
+### ⚡ Recursos Interativos
+- **Navegação Mobile**: Menu hambúrguer para dispositivos móveis
+- **Rolagem Suave**: Navegação suave entre seções
+- **Validação de Formulário**: Formulário de contato com validação de email
+- **Animações de Rolagem**: Elementos animam conforme entram na tela
+- **Efeitos Hover**: Efeitos interativos de hover em cards e botões
+- **Botão Voltar ao Topo**: Botão conveniente para retornar ao topo
+- **Notificações**: Notificações de sucesso/erro para envios de formulário
 
-### 🎭 Performance Showcase
-- Performance cards with descriptions
-- Dance style tags
-- Performance dates and venues
-- Hover effects and animations
+### 🎭 Mostra de Apresentações
+- Cards de apresentação com descrições
+- Tags de estilos de dança
+- Datas e locais das apresentações
+- Efeitos hover e animações
 
-## File Structure
+## Estrutura de Arquivos
 
 ```
 dancer-portfolio/
-├── index.html          # Main HTML file
-├── styles.css          # CSS styles and animations
-├── script.js           # JavaScript functionality
-└── README.md          # This documentation
+├── index.html          # Arquivo HTML principal
+├── styles.css          # Estilos CSS e animações
+├── script.js           # Funcionalidade JavaScript
+└── README.md          # Esta documentação
 ```
 
-## Customization
+## Personalização
 
-### Personal Information
-Update the following in `index.html`:
-- Name: "Elena Rodriguez" → Your name
-- Email: "elena.rodriguez@email.com" → Your email
-- Phone: "+1 (555) 123-4567" → Your phone number
-- Location: "New York, NY" → Your location
-- Social media links in the contact section
+### Informações Pessoais
+Atualize o seguinte em `index.html`:
+- Nome: "Elena Rodriguez" → Seu nome
+- Email: "elena.rodriguez@email.com" → Seu email
+- Telefone: "+1 (555) 123-4567" → Seu número de telefone
+- Localização: "São Paulo, SP" → Sua localização
+- Links de redes sociais na seção de contato
 
-### Content
-- **About Section**: Update the personal story and experience
-- **Statistics**: Modify the numbers in the stats section
-- **Performances**: Add your own performance details
-- **Skills**: Update the dance style tags
-- **Gallery**: Replace placeholder text with actual images
+### Conteúdo
+- **Seção Sobre**: Atualize a história pessoal e experiência
+- **Estatísticas**: Modifique os números na seção de estatísticas
+- **Apresentações**: Adicione seus próprios detalhes de apresentação
+- **Habilidades**: Atualize as tags de estilos de dança
+- **Galeria**: Substitua o texto placeholder por imagens reais
 
-### Styling
-The website uses a modern color scheme:
-- Primary: `#e74c3c` (Red)
-- Secondary: `#f39c12` (Orange)
-- Accent: `#667eea` to `#764ba2` (Purple gradient)
-- Text: `#2c3e50` (Dark blue-gray)
+### Estilização
+O website usa um esquema de cores moderno:
+- Primária: `#e74c3c` (Vermelho)
+- Secundária: `#f39c12` (Laranja)
+- Destaque: `#667eea` para `#764ba2` (Gradiente roxo)
+- Texto: `#2c3e50` (Azul-cinza escuro)
 
-## Browser Support
+## Suporte de Navegadores
 
-- ✅ Chrome (latest)
-- ✅ Firefox (latest)
-- ✅ Safari (latest)
-- ✅ Edge (latest)
-- ✅ Mobile browsers
+- ✅ Chrome (mais recente)
+- ✅ Firefox (mais recente)
+- ✅ Safari (mais recente)
+- ✅ Edge (mais recente)
+- ✅ Navegadores móveis
 
-## Performance Features
+## Recursos de Performance
 
-- **Fast Loading**: Optimized CSS and JavaScript
-- **SEO Friendly**: Semantic HTML structure
-- **Accessibility**: Proper ARIA labels and keyboard navigation
-- **Cross-browser**: Compatible with all modern browsers
+- **Carregamento Rápido**: CSS e JavaScript otimizados
+- **SEO Amigável**: Estrutura HTML semântica
+- **Acessibilidade**: Labels ARIA adequados e navegação por teclado
+- **Cross-browser**: Compatível com todos os navegadores modernos
 
-## Getting Started
+## Como Começar
 
-1. **Download/Clone** the files to your local machine
-2. **Customize** the content in `index.html` with your information
-3. **Replace** placeholder content with your actual content
-4. **Add Images**: Replace gallery placeholders with actual dance photos
-5. **Deploy**: Upload to your web hosting service
+1. **Baixe/Clone** os arquivos para sua máquina local
+2. **Personalize** o conteúdo em `index.html` com suas informações
+3. **Substitua** o conteúdo placeholder pelo seu conteúdo real
+4. **Adicione Imagens**: Substitua os placeholders da galeria por fotos reais de dança
+5. **Implante**: Faça upload para seu serviço de hospedagem web
 
-## Adding Real Images
+## Adicionando Imagens Reais
 
-To add real images to the gallery:
+Para adicionar imagens reais à galeria:
 
-1. Replace the gallery placeholders in `index.html`:
+1. Substitua os placeholders da galeria em `index.html`:
 ```html
 <div class="gallery-item">
-    <img src="path/to/your/image.jpg" alt="Dance Performance">
+    <img src="caminho/para/sua/imagem.jpg" alt="Apresentação de Dança">
 </div>
 ```
 
-2. Update the CSS for gallery items:
+2. Atualize o CSS para itens da galeria:
 ```css
 .gallery-item img {
     width: 100%;
@@ -110,28 +110,28 @@ To add real images to the gallery:
 }
 ```
 
-## Contact Form
+## Formulário de Contato
 
-The contact form includes:
-- Name field
-- Email field (with validation)
-- Subject field
-- Message field
-- Form validation and success notifications
+O formulário de contato inclui:
+- Campo de nome
+- Campo de email (com validação)
+- Campo de assunto
+- Campo de mensagem
+- Validação de formulário e notificações de sucesso
 
-**Note**: The form currently shows a success message but doesn't actually send emails. To make it functional, you'll need to:
-1. Set up a backend service (PHP, Node.js, etc.)
-2. Configure email sending functionality
-3. Update the JavaScript to make actual HTTP requests
+**Nota**: O formulário atualmente mostra uma mensagem de sucesso mas não envia emails realmente. Para torná-lo funcional, você precisará:
+1. Configurar um serviço backend (PHP, Node.js, etc.)
+2. Configurar funcionalidade de envio de email
+3. Atualizar o JavaScript para fazer requisições HTTP reais
 
-## License
+## Licença
 
-This project is open source and available under the MIT License.
+Este projeto é open source e disponível sob a Licença MIT.
 
-## Support
+## Suporte
 
-For questions or customization help, feel free to reach out!
+Para dúvidas ou ajuda com personalização, sinta-se à vontade para entrar em contato!
 
 ---
 
-**Created with ❤️ for dancers and performers worldwide**
+**Criado com ❤️ para bailarinas e artistas do mundo todo**

@@ -81,17 +81,17 @@ if (contactForm) {
         
         // Simple validation
         if (!name || !email || !subject || !message) {
-            showNotification('Please fill in all fields', 'error');
+            showNotification('Por favor, preencha todos os campos', 'error');
             return;
         }
         
         if (!isValidEmail(email)) {
-            showNotification('Please enter a valid email address', 'error');
+            showNotification('Por favor, insira um endereço de email válido', 'error');
             return;
         }
         
         // Simulate form submission
-        showNotification('Thank you! Your message has been sent successfully.', 'success');
+        showNotification('Obrigada! Sua mensagem foi enviada com sucesso.', 'success');
         this.reset();
     });
 }
@@ -163,7 +163,7 @@ function showNotification(message, type = 'info') {
 document.querySelectorAll('.gallery-item').forEach(item => {
     item.addEventListener('click', () => {
         // This would typically open a lightbox with the full image
-        showNotification('Gallery feature coming soon!', 'info');
+        showNotification('Funcionalidade da galeria em breve!', 'info');
     });
 });
 
